@@ -1,6 +1,6 @@
 ## code your solution here.
 def Cat
   attr_accessor :name
-  .meow
+  name.meow
   puts "meow!"
 end
